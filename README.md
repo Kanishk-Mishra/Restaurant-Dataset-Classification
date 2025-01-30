@@ -1,4 +1,5 @@
 # Marketing Strategy Personalised Offer
+## _Restaurant Dataset Classification_
 
 This repository contains my solution for the **Marketing Strategy Personalised Offer** challenge. The goal of the project is to predict whether a customer will accept a personalised offer based on their profile and behaviour.
 
