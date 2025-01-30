@@ -57,4 +57,4 @@ pip install pandas numpy scikit-learn xgboost
 ## 🤝 Contributions & Feedback
 If you have suggestions or improvements, feel free to open an issue or a pull request! 🚀
 
-📍 Check out my Kaggle profile [here](https://www.kaggle.com/kanishk)
+📍 Check out my Kaggle profile [here](https://www.kaggle.com/canisqmisra)
